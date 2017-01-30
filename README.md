@@ -5,15 +5,13 @@
 2. 类名和html的实现没有参考imooc教程，对于有该方面需求的同学请绕行
 
 ###使用步骤
-
-1. clone仓库
+* clone仓库
 ```git
  git clone git@github.com:luoyin1994/imooc-vue-shoppingCar-demo.git
  #or
  git clone https://github.com/luoyin1994/imooc-vue-shoppingCar-demo.git
 ```
-
-2. 执行index.html
+* 执行index.html
 
 
 
